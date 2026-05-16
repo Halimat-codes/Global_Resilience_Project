@@ -160,6 +160,7 @@ Power BI Features Used
 
 
 
+<img width="2836" height="1482" alt="page one" src="https://github.com/user-attachments/assets/3c0002c1-4dfe-4cda-8b9b-3527f5c0fa42" />
 
 
 
@@ -183,6 +184,7 @@ This page provides a high-level overview of:
 
 **6.2  Page 2 — Vaccination Impact \& Outcome Relationships**
 
+<img width="2856" height="1502" alt="page 2" src="https://github.com/user-attachments/assets/e3f4eecd-8154-4cf9-bed6-3c1df3b955d1" />
 
 
 This page explores relationships between:
@@ -205,6 +207,7 @@ This page explores relationships between:
 
 **6.3  Page 3 — Risk \& System Analysis**
 
+<img width="2582" height="1452" alt="3" src="https://github.com/user-attachments/assets/8e619e91-25de-4a25-8d30-cb20bb0bedeb" />
 
 
 This page focuses on:
