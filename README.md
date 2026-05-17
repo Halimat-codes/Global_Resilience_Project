@@ -66,7 +66,8 @@ The Silver Layer was used for cleaning and transforming the raw data into struct
 
 
 
-* Data Cleaning Performed
+Data Cleaning Performed...
+
 * Removed duplicate records
 * Handled missing and null values
 * Standardized inconsistent values
@@ -74,7 +75,9 @@ The Silver Layer was used for cleaning and transforming the raw data into struct
 * Converted data types
 * Filtered invalid records
 * Structured cleaned tables for analysis
-* Data Transformation
+
+ Data Transformation
+ 
 * Aggregated regional metrics
 * Created analytical columns
 * Standardized continent and country data
@@ -90,7 +93,8 @@ The Gold Layer contains business-ready analytical views and KPI calculations use
 
 
 
-* KPIs Calculated in SQL
+KPIs Calculated in SQL...
+
 * Fatality Rate
 * Vaccination Coverage
 * Equity Gap Index
@@ -98,7 +102,8 @@ The Gold Layer contains business-ready analytical views and KPI calculations use
 * Healthcare Pressure Index
 * Reproduction Rate
 * Government Response
-* Analytical Operations Performed
+  
+Analytical Operations Performed
 * Aggregations
 * Trend analysis
 * Regional comparisons
@@ -174,7 +179,9 @@ This page provides a high-level overview of:
 3. Equity Gap
 4. Population Density Risk
 5. Healthcare Pressure
-**Key Insights**
+   
+&#x20;  **Key Insights**
+
 * Fatality rate declined significantly over time
 * Vaccination coverage improved moderately
 * Healthcare inequality remains high
@@ -196,7 +203,8 @@ This page explores relationships between:
 3. Equity Gap
 4. Reproduction Rate
 
-&#x20;   **Key Insights**
+
+&#x20;  **Key Insights**
 
 * Higher vaccination is associated with lower fatality
 * Disease spread reduced over time
@@ -265,5 +273,5 @@ This page focuses on:
 
 
 
-Overall, global health outcomes improved over time, with declining fatality rates and reduced disease spread. However, healthcare inequality, regional disparities, and varying system capacities remain major
+Overall, global health outcomes improved over time, with declining fatality rates and reduced disease spread. However, healthcare inequality, regional disparities, and varying system capacities remain major challenges requiring continuous monitoring and stragetic intervention.
 
